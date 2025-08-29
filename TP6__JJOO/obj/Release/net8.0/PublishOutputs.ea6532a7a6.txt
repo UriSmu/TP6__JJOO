@@ -1,0 +1,7 @@
+C:\Users\devandroid\Desktop\rioenfpewf\TP6__JJOO\TP6__JJOO\bin\Release\net8.0\publish\TP6__JJOO.exe
+C:\Users\devandroid\Desktop\rioenfpewf\TP6__JJOO\TP6__JJOO\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\devandroid\Desktop\rioenfpewf\TP6__JJOO\TP6__JJOO\bin\Release\net8.0\publish\appsettings.json
+C:\Users\devandroid\Desktop\rioenfpewf\TP6__JJOO\TP6__JJOO\bin\Release\net8.0\publish\TP6__JJOO.dll
+C:\Users\devandroid\Desktop\rioenfpewf\TP6__JJOO\TP6__JJOO\bin\Release\net8.0\publish\TP6__JJOO.deps.json
+C:\Users\devandroid\Desktop\rioenfpewf\TP6__JJOO\TP6__JJOO\bin\Release\net8.0\publish\TP6__JJOO.runtimeconfig.json
+C:\Users\devandroid\Desktop\rioenfpewf\TP6__JJOO\TP6__JJOO\bin\Release\net8.0\publish\TP6__JJOO.pdb
